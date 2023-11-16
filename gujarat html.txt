@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Diwali in Gujarat</title>
+</head>
+<body>
+  <h1 style="text-align: center;">Diwali in Gujarat</h1>
+  <!-- Content about Diwali in Gujarat -->
+  <!-- Feel free to add images, text, or any other relevant content -->
+</body>
+</html>
